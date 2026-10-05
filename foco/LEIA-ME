@@ -1,0 +1,21 @@
+Ferramentas usadas para a criação do site
+- TypeScript e React — linguagens e biblioteca usadas para construir a interface e a lógica.
+- TanStack Start e TanStack Router — estrutura do app, rotas e funções de servidor.
+- Tailwind CSS — estilos da interface.
+- Vite e Nitro — desenvolvimento e geração da versão de produção.
+- Chart.js — gráfico de produtividade semanal.
+- Lucide React — ícones.
+- Sonner — notificações que aparecem na tela.
+- Google Fonts — fontes Fraunces, JetBrains Mono e Manrope.
+Contas, dados e serviços
+- Better Auth — cadastro e login por email e senha e autenticação com Google.
+- Drizzle ORM e Drizzle Kit — acesso ao banco e gerenciamento do esquema.
+- PostgreSQL hospedado no Neon — banco de dados do projeto.
+- Google Cloud OAuth — credenciais que permitem o login com Google.
+- Resend — integração prevista para emails transacionais. A recuperação de senha foi desativada nesta demonstração porque exigiria um domínio verificado para envio.
+- Vercel — hospedagem atual do site e publicação dos deploys. Netlify foi usado anteriormente, mas o site foi levado para a Vercel.
+Ferramentas de desenvolvimento
+- Node.js e pnpm — ambiente e gerenciamento das dependências.
+- Vercel CLI — configuração e publicação pelo terminal.
+- PowerShell e VS Code — ferramentas usadas para executar comandos e editar o projeto.
+IA
