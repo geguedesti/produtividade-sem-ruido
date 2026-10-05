@@ -18,4 +18,6 @@ Ferramentas de desenvolvimento
 - Node.js e pnpm — ambiente e gerenciamento das dependências.
 - Vercel CLI — configuração e publicação pelo terminal.
 - PowerShell e VS Code — ferramentas usadas para executar comandos e editar o projeto.
-IA
+- Codex, assistente de programação da OpenAI
+- DeepSeek — como assistente de IA durante a criação.
+- Assistente do Netlify, baseado no Claude — para ajudar inicialmente com o site.
