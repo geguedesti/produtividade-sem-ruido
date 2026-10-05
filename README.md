@@ -51,3 +51,14 @@ Cadastro simplificado: a verificação obrigatória de e-mail foi removida. Agor
 Correção no banco de dados: usuários que já existiam foram atualizados para não sofrerem mais bloqueio no login social.
 
 Mensagem ajustada: a tela de cadastro agora avisa que a conta foi criada com sucesso e que o acesso já está liberado, em vez de pedir para confirmar o e-mail.
+
+Atualização 1.4
+Avisos e Feedback
+
+Notificação de boas-vindas: ao entrar com Google ou com email e senha, uma notificação rápida (toast) confirma o sucesso da operação, deixando claro que o login foi realizado.
+
+Aviso no cadastro: ao criar uma conta, um lembrete abaixo do campo de senha orienta o usuário a anotar e guardar a senha em local seguro, já que a recuperação por email não está disponível nesta demonstração.
+
+Recuperação de senha transparente: ao clicar em "Esqueci minha senha", o app informa de forma clara que essa funcionalidade está indisponível na demonstração, em vez de tentar enviar um email que não chegaria.
+
+Documentação de limitação: o README agora explica por que o envio de emails está desativado (falta de domínio próprio verificado no Resend) e como habilitar em produção.
