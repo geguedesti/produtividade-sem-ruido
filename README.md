@@ -41,3 +41,13 @@ Aparência
 
 FAQ com tema integrado: a FAQ agora acompanha o tema salvo no Foco e tem opções para trocar de paleta. A escolha fica salva para quando você voltar ao app.
 
+Atualização 1.3
+Acesso e Estabilidade
+
+Correção do Login com Google: o erro que impedia a entrada com contas novas (account_not_linked) foi resolvido. Agora o app cria e vincula a conta Google automaticamente, sem travar.
+
+Cadastro simplificado: a verificação obrigatória de e-mail foi removida. Agora você cria a conta e já pode entrar direto, sem depender de links de confirmação que estavam falhando.
+
+Correção no banco de dados: usuários que já existiam foram atualizados para não sofrerem mais bloqueio no login social.
+
+Mensagem ajustada: a tela de cadastro agora avisa que a conta foi criada com sucesso e que o acesso já está liberado, em vez de pedir para confirmar o e-mail.
