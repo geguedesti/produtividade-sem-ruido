@@ -62,3 +62,22 @@ Aviso no cadastro: ao criar uma conta, um lembrete abaixo do campo de senha orie
 Recuperação de senha transparente: ao clicar em "Esqueci minha senha", o app informa de forma clara que essa funcionalidade está indisponível na demonstração, em vez de tentar enviar um email que não chegaria.
 
 Documentação de limitação: o README agora explica por que o envio de emails está desativado (falta de domínio próprio verificado no Resend) e como habilitar em produção.
+
+Atualização 1.5 — Organização, foco e experiência móvel
+
+Tarefas
+Prioridade editável: altere a prioridade de uma tarefa entre alta, média e baixa.
+Mais foco no dia: a aba “Todas” mostra apenas as tarefas criadas no dia atual.
+Tempo acumulado: o tempo focado fica registrado mesmo que a tarefa ainda não tenha sido concluída. Ao pausar e retomar, o timer continua de onde parou.
+Pausa longa personalizada: defina a duração da pausa longa ao cadastrar cada tarefa. Ao concluir uma tarefa — manualmente ou ao atingir o tempo planejado — a pausa começa automaticamente.
+
+Roleta de tarefas
+A seção “Não sabe por onde começar?” ganhou uma roleta colorida que escolhe uma tarefa em aberto.
+A roleta gira com efeitos sonoros, desacelera e toca um “plim” ao revelar a tarefa escolhida.
+
+Música
+Player opcional para “Instant Focus Mode – 40Hz”, carregado pelo YouTube quando a pessoa clicar em “Ouvir”.
+
+Tela cheia
+O cronômetro pode ocupar a tela inteira, exibindo apenas o relógio e mantendo o tema selecionado.
+Em celulares, o modo se adapta à tela e oferece um botão para sair sem interagir com o restante da página.
