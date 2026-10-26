@@ -81,3 +81,19 @@ Player opcional para “Instant Focus Mode – 40Hz”, carregado pelo YouTube q
 Tela cheia
 O cronômetro pode ocupar a tela inteira, exibindo apenas o relógio e mantendo o tema selecionado.
 Em celulares, o modo se adapta à tela e oferece um botão para sair sem interagir com o restante da página.
+
+Atualização 1.6 — Tarefas e temas
+Seleção em lote e lixeira
+Agora você pode selecionar várias tarefas e movê-las para a lixeira. Lá, pode restaurá-las ou excluí-las definitivamente.
+
+Conclusões do dia
+A aba Concluídas mostra apenas as tarefas concluídas hoje.
+
+Progresso mais claro
+O círculo da tarefa indica o progresso sem concluir a tarefa ao ser clicado. Para marcar como concluída, use o botão próprio.
+
+Novas opções de aparência
+Escolha entre oito cores — roxo, azul, verde, rosa, laranja, dourado, prata e vermelho — nos modos claro e noturno. A escolha fica salva.
+
+Temas personalizados
+Temas com desenhos e animações estão planejados como uma opção premium futura.
